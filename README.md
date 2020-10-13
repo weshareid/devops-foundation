@@ -1,2 +1,2 @@
-# devops-fundamental
-DevOps Fundamental
+# DevOps Foundation
+DevOps Foundation
